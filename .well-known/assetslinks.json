@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.gemx.gemx",
+    "sha256_cert_fingerprints":
+    ["CA:45:9D:38:CD:B0:0C:F4:98:B6:93:26:03:B8:6E:8A:A8:E3:74:06:D5:64:CB:63:42:62:3A:EA:D0:31:D8:96"]
+  }
+}]
